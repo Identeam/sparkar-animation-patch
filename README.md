@@ -2,6 +2,8 @@
 
 Extended animation patch
 
+![Patch](https://github.com/Identeam/sparkar-animation-patch/blob/main/patch.png "Patch")
+
 ## Usage
 1. Download 
 2. unzip
