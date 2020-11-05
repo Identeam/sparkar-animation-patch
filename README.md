@@ -18,7 +18,9 @@ With basic `Animation` and `Loop Animation` Pathes you can't specify start and e
 
 
 **Timeline visualisation**
+
 [![Timeline illustration](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/timeline_illustration.png?raw=true "Timeline illustration")](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/README.md "Timeline illustration")
 
 ### Yo-yo visualization
+
 [![yoyo visualisation](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/timeline_illustration_yoyo.png "yoyo visualisation")](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/timeline_illustration_yoyo.png "yoyo visualisation")
