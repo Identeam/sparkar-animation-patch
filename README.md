@@ -16,6 +16,8 @@ With basic `Animation` and `Loop Animation` Pathes you can't specify start and e
 - Animation with yo-yo effect (animation forward - then animate backward)
 - specify start delay, duration and delay berween repeats
 
+
+**Timeline visualisation**
 [![Timeline illustration](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/timeline_illustration.png?raw=true "Timeline illustration")](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/README.md "Timeline illustration")
 
 ### Yo-yo visualization
