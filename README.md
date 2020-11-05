@@ -25,4 +25,9 @@ With basic `Animation` and `Loop Animation` Pathes you can't specify start and e
 
 ### Yo-yo visualization
 
-[![yoyo visualisation](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/timeline_illustration_yoyo.png "yoyo visualisation")](https://github.com/Identeam/sparkar-animation-patch/blob/illustrations/timeline_illustration_yoyo.png "yoyo visualisation")
+![Yo yo timeline](https://github.com/Identeam/sparkar-animation-patch/blob/main/timeline_yoyo.png "Yo yo timeline")
+
+![yoyo is part of animation](https://github.com/Identeam/sparkar-animation-patch/blob/main/yoyo_is_part_ofanimation.png "yoyo is part of animation")
+
+
+
