@@ -16,7 +16,7 @@ With basic `Animation` and `Loop Animation` Pathes you can't specify start delay
 - Animation
 - Loop animation
 - Animation with yo-yo effect (animation forward - then animate backward)
-- specify start delay, duration and delay berween repeats
+- specify start delay, duration and delay between repeats
 
 
 **Timeline visualisation**
