@@ -9,14 +9,14 @@ Extended animation patch
 2. unzip
 3. Drag and drop the .arp file into you project
 
-## Idea
-With basic `Animation` and `Loop Animation` Pathes you can't specify start delay and delay between of animation. 
+## About
+With basic `Animation Patch` and `Loop Animation Patch` you can't specify start delay and delay between repeats of animation. With this Patch you can!
 
-### Idea is create one Patch for:
+### Basic functions of the Patch:
 - Animation
 - Loop animation
-- Animation with yo-yo effect (animation forward - then animate backward)
-- specify start delay, duration and delay between repeats
+- Yoyo animation (animation forward, then animate backward)
+- Specify start delay, duration and delay between repeats
 
 
 **Timeline visualisation**
@@ -27,7 +27,7 @@ With basic `Animation` and `Loop Animation` Pathes you can't specify start delay
 
 ![Yo yo timeline](https://github.com/Identeam/sparkar-animation-patch/blob/main/timeline_yoyo.png "Yo yo timeline")
 
-![yoyo is part of animation](https://github.com/Identeam/sparkar-animation-patch/blob/main/yoyo_is_part_ofanimation.png "yoyo is part of animation")
+![yoyo is a part of animation](https://github.com/Identeam/sparkar-animation-patch/blob/main/yoyo_is_part_ofanimation.png "yoyo is part of animation")
 
 
 
