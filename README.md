@@ -10,7 +10,7 @@ Extended animation patch
 3. Drag and drop the .arp file into you project
 
 ## Idea
-With basic `Animation` and `Loop Animation` Pathes you can't specify start and end delay of animation. 
+With basic `Animation` and `Loop Animation` Pathes you can't specify start delay and delay between of animation. 
 
 ### Idea is create one Patch for:
 - Animation
