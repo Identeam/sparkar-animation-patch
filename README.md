@@ -5,7 +5,7 @@ Extended animation patch
 ![Patch](https://github.com/Identeam/sparkar-animation-patch/blob/main/patch.png "Patch")
 
 ## Usage
-1. [Download](https://github.com/Identeam/sparkar-animation-patch/releases/download/0.1.0/Timeline-animation.zip "Download") 
+1. [Download](https://github.com/Identeam/sparkar-animation-patch/releases/download/0.1.2/Timeline-animation.zip "Download") 
 2. unzip
 3. Drag and drop the .arp file into you project
 
